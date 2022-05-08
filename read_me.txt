@@ -1,1 +1,0 @@
-Edit your email on config.php
